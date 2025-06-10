@@ -1,0 +1,10 @@
+Hola, en este txt file encontrara los links a los videos de pruebas hechas en mi ambiente local de cada una de las guías practicas. 
+
+Desarrollo de Base de datos ADONET Guía práctica 2
+https://youtu.be/H81TPgVEVsc
+
+Desarrollo de Base de datos ADONET Guía práctica 3
+https://youtu.be/zBdWyunXnR4
+
+Desarrollo de Base de datos ADONET Guía práctica 4
+https://youtu.be/6YDKtQDu3Hs
